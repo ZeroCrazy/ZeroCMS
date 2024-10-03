@@ -41,7 +41,7 @@ Si deseas colaborar, puedes traducir el sistema a tu idioma y enviarnos la tradu
 
 <details><summary>Ver configuración</summary>
   
-```sh
+```php
 <?php
 
     $config = [
