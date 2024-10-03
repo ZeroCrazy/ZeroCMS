@@ -3,9 +3,10 @@ ZeroCMS v2
 [![N|Solid](https://i.imgur.com/R0MLVn3.png)](https://zerocms.codetech.es)
 
 [![Github All Releases](https://img.shields.io/github/downloads/ZeroCrazy/ZeroCMS/total.svg)]()
-[![GitHub release](https://img.shields.io/github/release/ZeroCrazy/ZeroCMS.svg?color=%23f17e3f)]()
+[![GitHub release](https://img.shields.io/github/release/ZeroCrazy/ZeroCMS.svg?color=%23f17e3f&style=for-the-badge)]()
 [![License](https://img.shields.io/github/license/ZeroCrazy/ZeroCMS.svg?color=%230d7ebf)]()
 ![Discord](https://img.shields.io/discord/1291085167871655977?style=for-the-badge)
+
 
 
 ZeroCMS es un sistema de gestión de contenido (CMS) de código abierto, diseñado específicamente para servidores privados de juegos en línea, con una optimización especial para **Metin2**. El proyecto ofrece múltiples funcionalidades y está pensado para administradores que buscan una solución robusta y personalizable.
