@@ -2,9 +2,9 @@ ZeroCMS v2
 =========
 [![N|Solid](https://i.imgur.com/R0MLVn3.png)](https://zerocms.codetech.es)
 
-[![Github All Releases](https://img.shields.io/github/downloads/ZeroCrazy/ZeroCMS/total.svg)]()
+[![Github All Releases](https://img.shields.io/github/downloads/ZeroCrazy/ZeroCMS/total.svg?style=for-the-badge)]()
 [![GitHub release](https://img.shields.io/github/release/ZeroCrazy/ZeroCMS.svg?color=%23f17e3f&style=for-the-badge)]()
-[![License](https://img.shields.io/github/license/ZeroCrazy/ZeroCMS.svg?color=%230d7ebf)]()
+[![License](https://img.shields.io/github/license/ZeroCrazy/ZeroCMS.svg?color=%230d7ebf&style=for-the-badge)]()
 [![Discord](https://img.shields.io/discord/1291085167871655977?style=for-the-badge)](https://discord.gg/TJYVknx5AC)
 
 
