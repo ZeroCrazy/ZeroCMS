@@ -29,11 +29,32 @@ Es recomendable tener configurado un entorno de servidor optimizado para garanti
 
 
 ## Idiomas
-Actualmente contamos con **3** traducciones:
+Actualmente contamos con **24** traducciones:
 
-  - [![N|Solid](https://flagcdn.com/16x12/es.png)](#) Spanish
-  - [![N|Solid](https://flagcdn.com/16x12/us.png)](#) English
-  - [![N|Solid](https://flagcdn.com/16x12/ro.png)](#) Română
+ - [![N|Solid](https://flagcdn.com/16x12/ar.png)](#) Arabic
+ - [![N|Solid](https://flagcdn.com/16x12/bg.png)](#) Bulgarian
+ - [![N|Solid](https://flagcdn.com/16x12/cz.png)](#) Czech
+ - [![N|Solid](https://flagcdn.com/16x12/dk.png)](#) Danish
+ - [![N|Solid](https://flagcdn.com/16x12/de.png)](#) German
+ - [![N|Solid](https://flagcdn.com/16x12/gr.png)](#) Greek
+ - [![N|Solid](https://flagcdn.com/16x12/us.png)](#) English
+ - [![N|Solid](https://flagcdn.com/16x12/es.png)](#) Spanish
+ - [![N|Solid](https://flagcdn.com/16x12/fi.png)](#) Finnish
+ - [![N|Solid](https://flagcdn.com/16x12/fr.png)](#) French
+ - [![N|Solid](https://flagcdn.com/16x12/hu.png)](#) Hungarian
+ - [![N|Solid](https://flagcdn.com/16x12/it.png)](#) Italian
+ - [![N|Solid](https://flagcdn.com/16x12/jp.png)](#) Japanese
+ - [![N|Solid](https://flagcdn.com/16x12/nl.png)](#) Dutch
+ - [![N|Solid](https://flagcdn.com/16x12/pl.png)](#) Polish
+ - [![N|Solid](https://flagcdn.com/16x12/pt.png)](#) Portuguese (Brazil)
+ - [![N|Solid](https://flagcdn.com/16x12/ro.png)](#) Romanian
+ - [![N|Solid](https://flagcdn.com/16x12/ru.png)](#) Russian
+ - [![N|Solid](https://flagcdn.com/16x12/si.png)](#) Slovenian
+ - [![N|Solid](https://flagcdn.com/16x12/sr.png)](#) Serbian
+ - [![N|Solid](https://flagcdn.com/16x12/sv.png)](#) Swedish
+ - [![N|Solid](https://flagcdn.com/16x12/tr.png)](#) Turkish
+ - [![N|Solid](https://flagcdn.com/16x12/ua.png)](#) Ukrainian
+ - [![N|Solid](https://flagcdn.com/16x12/cn.png)](#) Chinese (Simplified)
 
 Si deseas colaborar, puedes traducir el sistema a tu idioma y enviarnos la traducción.
 
